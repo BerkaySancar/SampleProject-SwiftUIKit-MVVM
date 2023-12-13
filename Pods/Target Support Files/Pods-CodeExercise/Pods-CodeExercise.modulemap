@@ -1,0 +1,6 @@
+framework module Pods_CodeExercise {
+  umbrella header "Pods-CodeExercise-umbrella.h"
+
+  export *
+  module * { export * }
+}
