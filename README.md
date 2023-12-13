@@ -4,6 +4,7 @@
 - MVVM-R
 - Protocol Oriented Programming
 - Networking
+- Generics
 - Pagination
 - Error Handling
 - Alamofire
